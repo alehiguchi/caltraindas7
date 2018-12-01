@@ -1,6 +1,6 @@
 # caltraindas7
-Caltrain das 7
-Melodia do Trem das 11
+Caltrain das 7<BR>
+(melodia do Trem das 11)<BR><BR>
 
 Eu vou compilar esse sistema feito em C <BR>
 Sinto muito amor, mas é o FTP <BR>
